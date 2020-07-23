@@ -1,4 +1,4 @@
-# Heart Disease Classification 
+# Cardiovascular Disease Classification 
 
 This project is currently in progress. 
 
