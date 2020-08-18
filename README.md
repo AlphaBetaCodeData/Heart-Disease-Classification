@@ -26,4 +26,4 @@ This project is currently in progress.
 3. **Exploratory Data Analysis**  
     
 ## References
- [^1]: Thomas MR, Lip GY. Novel risk markers and risk assessments for cardiovascular disease. Circulation research. 2017;120(1):133–149. pmid:28057790
+[^1]: Thomas MR, Lip GY. Novel risk markers and risk assessments for cardiovascular disease. Circulation research. 2017;120(1):133–149. pmid:28057790
