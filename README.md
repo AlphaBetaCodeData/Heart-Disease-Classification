@@ -1,7 +1,7 @@
 # Cardiovascular Disease Classification 
 
 ## Executive summary: 
- Cardiovascular disease (CVD) is the lead cause of mortality around the world [1].
+ [Cardiovascular disease (CVD) is the lead cause of mortality around the world][1].
  Current guidelines recognise the need to identify patients with no symptoms who may benefit from preventative measures. 
 
 My aim is to use multiple classification algorithms to learn what features of the data are emphasised as important to heart disease. The outcome to be a model that classifies individuals with cardiovascular disease.
