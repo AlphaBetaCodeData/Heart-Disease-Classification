@@ -27,3 +27,9 @@ This project is currently in progress.
     
 ## References
 {^1}: Thomas MR, Lip GY. Novel risk markers and risk assessments for cardiovascular disease. Circulation research. 2017;120(1):133–149. pmid:28057790
+
+
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
