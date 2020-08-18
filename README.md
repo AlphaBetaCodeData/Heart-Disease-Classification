@@ -1,6 +1,6 @@
 # Cardiovascular Disease Classification 
 
-## Executive summary: 
+## Executive summary
 Cardiovascular disease (CVD) is the lead cause of mortality around the world.<sup>1</sup>
  Current guidelines recognise the need to identify patients with no symptoms who may benefit from preventative measures. 
 
@@ -12,7 +12,7 @@ This project is currently in progress.
 1. cardio_train.csv: raw data file -  70k records od patients data, 11 features + target
 2. CVD_classification.ipynb: Jupyter notebook with python code + commentary
 
-## Contents:
+## Methodology
 1. **Importing Libraries**  
     1.1 Loading Data  
     1.2 Looking for Missing Values
@@ -24,9 +24,13 @@ This project is currently in progress.
     2.3 IQR for Outlier Calculation  
     2.4 Outlier Removal  
 3. **Exploratory Data Analysis**  
+
+## Key Findings
+
+## Conclusions
     
 ## References
-<sup>1</sup>: Thomas MR, Lip GY. Novel risk markers and risk assessments for cardiovascular disease. Circulation research. 2017;120(1):133–149. pmid:28057790
+1. Thomas MR, Lip GY. Novel risk markers and risk assessments for cardiovascular disease. Circulation research. 2017;120(1):133–149. pmid:28057790
 
 
 
